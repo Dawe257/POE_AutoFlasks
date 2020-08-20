@@ -1,5 +1,5 @@
 # POE_AutoFlasks
-
+<img src="1.png" align="center"><br>
 POE AutoFlasks is a small, fast program that will help to automate the use of flasks in <b>Path of Exile</b>.
 <hr>
 
