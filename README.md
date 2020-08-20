@@ -1,5 +1,8 @@
 # POE_AutoFlasks
-<div style="dysplay: flex; justify-content: center;"><img src="1.png"></div>
+<h4 = align="center>
+  <img src="1.png">
+</h4>
+
 POE AutoFlasks is a small, fast program that will help to automate the use of flasks in <b>Path of Exile</b>.
 <hr>
 
