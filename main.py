@@ -8,21 +8,21 @@ main = Controller()
 
 def on_press(key):
     if key == keyboard.Key.space:
-        main.press('1')
-        main.release('1')
-        time.sleep(random.uniform(0, 0.4))
+        # main.press('1')
+        # main.release('1')
+        # time.sleep(random.uniform(0, 0.4))
         main.press('2')
         main.release('2')
-        time.sleep(random.uniform(0, 0.4))
+        time.sleep(random.uniform(0, 0.3))
         main.press('3')
         main.release('3')
-        time.sleep(random.uniform(0, 0.4))
+        time.sleep(random.uniform(0, 0.3))
         main.press('4')
         main.release('4')
-        time.sleep(random.uniform(0, 0.4))
+        time.sleep(random.uniform(0, 0.3))
         main.press('5')
         main.release('5')
-    elif key == keyboard.Key.esc:
+    elif key == keyboard.Key.f1:
         exit()
 
 
